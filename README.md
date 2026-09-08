@@ -59,22 +59,11 @@ Ejemplo de una tabla
 | Visual Studio Code | 1.95 |
 
 Alertas
-```markdown
-> [!NOTE]
-> Useful information that users should know, even when skimming content.
 
-> [!TIP]
-> Helpful advice for doing things better or more easily.
 
-> [!IMPORTANT]
-> Key information users need to know to achieve their goal.
 
-> [!WARNING]
-> Urgent info that needs immediate user attention to avoid problems.
 
-> [!CAUTION]
-> Advises about risks or negative outcomes of certain actions.
-```
+
 
 ## Parte 1
 Lorem ipsum dolor sit amet consectetur **adipiscing elit nulla,**  dignissim fames ad consequat rutrum facilisi mus, inceptos volutpat *habitasse semper* ullamcorper placerat donec. Platea quam diam sociis libero vestibulum hac tortor ***netus nibh, sagittis tempor nullam*** nulla vehicula justo eget cras, lacus potenti condimentum feugiat blandit fames fringilla leo. Facilisi fusce tellus class urna egestas rutrum vestibulum nam, lectus nunc euismod magna felis vehicula quis. Commodo leo vitae porta maecenas euismod nam congue curae class, sapien dui eget facilisi purus fames cubilia platea diam, phasellus justo libero duis accumsan risus cursus nascetur.
